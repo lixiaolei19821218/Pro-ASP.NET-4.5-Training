@@ -3,3 +3,8 @@ c:\users\charles\documents\visual studio 2012\Projects\Pro ASP.NET 4.5 Training\
 c:\users\charles\documents\visual studio 2012\Projects\Pro ASP.NET 4.5 Training\UsingjQuery\obj\Debug\UsingjQuery.csprojResolveAssemblyReference.cache
 c:\users\charles\documents\visual studio 2012\Projects\Pro ASP.NET 4.5 Training\UsingjQuery\obj\Debug\UsingjQuery.dll
 c:\users\charles\documents\visual studio 2012\Projects\Pro ASP.NET 4.5 Training\UsingjQuery\obj\Debug\UsingjQuery.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\UsingjQuery\bin\UsingjQuery.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\UsingjQuery\bin\UsingjQuery.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\UsingjQuery\obj\Debug\UsingjQuery.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\UsingjQuery\obj\Debug\UsingjQuery.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\UsingjQuery\obj\Debug\UsingjQuery.pdb
