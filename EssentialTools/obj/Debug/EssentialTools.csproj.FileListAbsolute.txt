@@ -1,0 +1,5 @@
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\EssentialTools\bin\EssentialTools.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\EssentialTools\bin\EssentialTools.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\EssentialTools\obj\Debug\EssentialTools.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\EssentialTools\obj\Debug\EssentialTools.pdb

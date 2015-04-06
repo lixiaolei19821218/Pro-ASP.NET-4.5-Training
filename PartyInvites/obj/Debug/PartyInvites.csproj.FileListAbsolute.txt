@@ -1,0 +1,5 @@
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\PartyInvites.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\PartyInvites.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.pdb
