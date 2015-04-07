@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PartyInvites.Presenters
 {
-    interface IPresenter<T>
+    public interface IPresenter<T>
     {
         IResult GetResult();
 

@@ -17,7 +17,8 @@
         <asp:ValidationSummary ID="validationSummary" runat="server"
             ShowModelStateErrors="true" />
         <div>
-            <label>Your name:</label><input type="text" id="name" runat="server" /></div>
+            <label>Your name:</label><input type="text" id="name" runat="server" />
+        </div>
         <div>
             <label>Your email:</label><input type="text" id="email" runat="server" />
         </div>

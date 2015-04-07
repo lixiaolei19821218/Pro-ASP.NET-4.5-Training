@@ -1,0 +1,7 @@
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.Test.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.Test.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.pdb

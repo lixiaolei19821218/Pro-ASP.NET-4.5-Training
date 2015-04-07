@@ -11,12 +11,12 @@ namespace PartyInvites.Models.Repository
 
         public IEnumerable<GuestResponse> GetAllResponses()
         {
-            throw new NotImplementedException();
+            return responses;
         }
 
         public void AddResponse(GuestResponse response)
         {
-            throw new NotImplementedException();
+            responses.Add(response);
         }
     }
 }

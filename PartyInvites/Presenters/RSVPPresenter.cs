@@ -21,7 +21,11 @@ namespace PartyInvites.Presenters
         {
             repository.AddResponse(requestData);
 
-            if (requestData.WillAttend.Value)
+            if (!requestData.WillAttend.HasValue)
+            {
+                throw new System.ArgumentNullException("WillAttend");
+            }
+            else if (requestData.WillAttend.Value)
             {
                 return new RedirectResult("/Content/seeyouthere.html");
             }

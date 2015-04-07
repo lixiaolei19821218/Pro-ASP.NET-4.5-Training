@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "Essential
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{75062CA9-854B-435D-AF82-EA388F2F956B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites.Tests", "PartyInvites.Tests\PartyInvites.Tests.csproj", "{6444AFA3-177D-489C-A38A-BF23EEB77314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{75062CA9-854B-435D-AF82-EA388F2F956B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75062CA9-854B-435D-AF82-EA388F2F956B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75062CA9-854B-435D-AF82-EA388F2F956B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6444AFA3-177D-489C-A38A-BF23EEB77314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6444AFA3-177D-489C-A38A-BF23EEB77314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6444AFA3-177D-489C-A38A-BF23EEB77314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6444AFA3-177D-489C-A38A-BF23EEB77314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
