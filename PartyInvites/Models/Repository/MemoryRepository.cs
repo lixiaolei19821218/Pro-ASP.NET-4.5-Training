@@ -5,7 +5,18 @@ using System.Web;
 
 namespace PartyInvites.Models.Repository
 {
-    public class MemoryRepository
+    public class MemoryRepository : IRepository
     {
+        private List<GuestResponse> responses = new List<GuestResponse>();
+
+        public IEnumerable<GuestResponse> GetAllResponses()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void AddResponse(GuestResponse response)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

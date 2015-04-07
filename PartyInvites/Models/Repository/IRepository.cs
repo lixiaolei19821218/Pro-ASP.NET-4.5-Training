@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//using PartyInvites.Models;
 
 namespace PartyInvites.Models.Repository
 {
-    interface IRepository
+    public interface IRepository
     {
-        IEnumerable<PartyInvites.Models.GuestResponse> GetAllResponses();
+        IEnumerable<GuestResponse> GetAllResponses();
+
         void AddResponse(GuestResponse response);
     }
 }

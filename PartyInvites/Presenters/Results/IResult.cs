@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PartyInvites.Models.Repository
+namespace PartyInvites.Presenters.Results
 {
-    interface IResult
+    public interface IResult
     {
     }
 }
