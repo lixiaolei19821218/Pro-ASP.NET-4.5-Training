@@ -1,23 +1,21 @@
 ﻿using PartyInvites.Models;
 using PartyInvites.Models.Repository;
 using PartyInvites.Presenters.Results;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace PartyInvites.Presenters
 {
-    public class RSVPPresenter: IPresenter<GuestResponse> 
+    public class RSVPPresenter : IPresenter<GuestResponse>, IPresenter<IEnumerable<GuestResponse>>
     {
+        [Ninject.Inject]
         public IRepository repository { get; set; }
 
-        public IResult GetResult()
+        IResult IPresenter<GuestResponse>.GetResult()
         {
             return new DataResult<GuestResponse>(new GuestResponse());
         }
 
-        public IResult GetResult(GuestResponse requestData)
+        IResult IPresenter<GuestResponse>.GetResult(GuestResponse requestData)
         {
             repository.AddResponse(requestData);
 
@@ -33,6 +31,16 @@ namespace PartyInvites.Presenters
             {
                 return new RedirectResult("/Content/sorryyoucantcome.html");
             }
+        }    
+
+        IResult IPresenter<IEnumerable<GuestResponse>>.GetResult()
+        {
+            return new DataResult<IEnumerable<GuestResponse>>(repository.GetAllResponses());
         }
+
+        IResult IPresenter<IEnumerable<GuestResponse>>.GetResult(IEnumerable<GuestResponse> requestData)
+        {
+            throw new System.NotImplementedException();
+        }         
     }
 }
