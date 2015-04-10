@@ -5,8 +5,7 @@ using System.Web;
 
 namespace Events
 {
-    public class EventCollection
-    {
+    
         public enum EventSource
         {
             Application,
@@ -36,5 +35,5 @@ namespace Events
                 get { return events; }
             }
         }
-    }
+    
 }
