@@ -81,6 +81,7 @@
     <Compile Include="Params.aspx.designer.cs">
       <DependentUpon>Params.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ParamsModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +91,12 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonModules\CommonModules.csproj">
+      <Project>{04b529f5-c172-4620-998c-253f06451833}</Project>
+      <Name>CommonModules</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

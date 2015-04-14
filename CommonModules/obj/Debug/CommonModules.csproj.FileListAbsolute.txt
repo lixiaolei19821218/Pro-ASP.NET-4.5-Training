@@ -1,0 +1,5 @@
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\CommonModules\bin\Debug\CommonModules.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\CommonModules\bin\Debug\CommonModules.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\CommonModules\obj\Debug\CommonModules.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\CommonModules\obj\Debug\CommonModules.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\CommonModules\obj\Debug\CommonModules.pdb

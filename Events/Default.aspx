@@ -28,8 +28,7 @@
                     <th>Source</th>
                     <th>Type</th>
                 </tr>
-                <asp:Repeater ID="Repeater1" SelectMethod="GetEvents"
-                    ItemType="Events.EventDescription" runat="server">
+                <asp:Repeater ID="Repeater1" SelectMethod="GetEvents" ItemType="Events.EventDescription" runat="server">
                     <ItemTemplate>
                         <tr>
                             <td><%#: Item.Source %></td>
