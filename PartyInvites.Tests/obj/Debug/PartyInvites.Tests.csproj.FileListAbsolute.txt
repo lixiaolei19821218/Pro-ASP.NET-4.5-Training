@@ -5,3 +5,17 @@ C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\
 C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.dll
 C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.Test.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.Test.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.Web.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\PartyInvites.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\bin\Debug\Ninject.Web.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites.Tests\obj\Debug\PartyInvites.Test.pdb

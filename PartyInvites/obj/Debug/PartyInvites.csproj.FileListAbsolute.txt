@@ -16,3 +16,16 @@ C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\PartyInvites\obj\Debug\PartyInvites.dll
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\PartyInvites.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\PartyInvites.pdb
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.Web.Common.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.Web.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\WebActivatorEx.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.Web.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\bin\Ninject.Web.Common.xml
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\PartyInvites\obj\Debug\PartyInvites.pdb
