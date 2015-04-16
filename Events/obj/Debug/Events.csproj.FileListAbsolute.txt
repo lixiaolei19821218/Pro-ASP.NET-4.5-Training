@@ -10,3 +10,10 @@ C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\obj\Debug\Events.pdb
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\CommonModules.dll
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\CommonModules.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\Events.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\Events.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\CommonModules.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\bin\CommonModules.pdb
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\obj\Debug\Events.dll
+C:\Users\Charlie\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Events\obj\Debug\Events.pdb

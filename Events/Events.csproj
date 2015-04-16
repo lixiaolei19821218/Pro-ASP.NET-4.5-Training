@@ -59,10 +59,13 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="ListModules.aspx" />
     <Content Include="Params.aspx" />
+    <Content Include="Price.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AverageTimeModule.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -74,6 +77,14 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="ListModules.aspx.cs">
+      <DependentUpon>ListModules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListModules.aspx.designer.cs">
+      <DependentUpon>ListModules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LocaleModule.cs" />
     <Compile Include="Params.aspx.cs">
       <DependentUpon>Params.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -82,6 +93,13 @@
       <DependentUpon>Params.aspx</DependentUpon>
     </Compile>
     <Compile Include="ParamsModule.cs" />
+    <Compile Include="Price.aspx.cs">
+      <DependentUpon>Price.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Price.aspx.designer.cs">
+      <DependentUpon>Price.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
