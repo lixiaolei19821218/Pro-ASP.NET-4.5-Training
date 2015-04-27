@@ -3,3 +3,8 @@ C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\Handlers\obj\Debug\Handlers.csprojResolveAssemblyReference.cache
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\Handlers\obj\Debug\Handlers.dll
 C:\Users\Charles\Documents\Visual Studio 2012\Projects\Pro ASP.NET 4.5 Training\Handlers\obj\Debug\Handlers.pdb
+C:\Users\HelloWorld\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Handlers\bin\Handlers.dll
+C:\Users\HelloWorld\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Handlers\bin\Handlers.pdb
+C:\Users\HelloWorld\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Handlers\obj\Debug\Handlers.csprojResolveAssemblyReference.cache
+C:\Users\HelloWorld\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Handlers\obj\Debug\Handlers.dll
+C:\Users\HelloWorld\Documents\Visual Studio 2012\Projects\Pro-ASP.NET-4.5-Training\Handlers\obj\Debug\Handlers.pdb

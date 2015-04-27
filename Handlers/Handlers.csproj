@@ -74,12 +74,15 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="InstantiationControl.cs" />
+    <Compile Include="IRequiresDurationData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recycling.cs" />
     <Compile Include="SelectionControl.cs" />
+    <Compile Include="SourceViewer.cs" />
     <Compile Include="Time.ashx.cs">
       <DependentUpon>Time.ashx</DependentUpon>
     </Compile>
+    <Compile Include="TotalDurationModule.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Time.ashx" />

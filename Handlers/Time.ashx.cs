@@ -8,7 +8,7 @@ namespace Handlers
     /// <summary>
     /// Time 的摘要说明
     /// </summary>
-    public class Time : IHttpHandler
+    public class Time : IHttpHandler, IRequiresDurationData
     {
 
         public void ProcessRequest(HttpContext context)
@@ -23,6 +23,14 @@ namespace Handlers
             {
                 context.Response.ContentType = "text/html";
                 context.Response.Write(string.Format("<span>{0}</span>", time));
+            }
+
+            double? totalTime = context.Items["total_time"] as double?;
+            if (totalTime != null)
+            {
+                totalTime +=
+                (DateTime.Now.Subtract(context.Timestamp).TotalMilliseconds);
+                context.Items["total_time"] = totalTime;
             }
         }
 
